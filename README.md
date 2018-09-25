@@ -1,4 +1,4 @@
-# mangodb
-mangodb practice
+# mongodb
+mongodb practice
 
 testrepository
